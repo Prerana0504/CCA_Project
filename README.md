@@ -16,3 +16,28 @@ types of HE, its use in cloud computing,
 challenges faced in its implementation,
 recent advancements, and potential future
 prospects.
+Abstract- Homomorphic Encryption (HE)
+offers a transformative approach to cloud
+computing by enabling operations on
+encrypted data without requiring
+decryption. This review highlights the
+various types of HE, including Partially
+Homomorphic Encryption (PHE),
+Somewhat Homomorphic Encryption
+(SHE), and Fully Homomorphic
+Encryption (FHE). It explores the
+potential of HE in ensuring data privacy
+and confidentiality during computations
+in cloud environments. The review also
+addresses the challenges posed by HE,
+such as performance issues, key
+management, and scalability, while
+discussing recent advancements in HE
+technologies. Furthermore, applications in
+secure data storage, confidential machine
+learning, and sectors like healthcare and
+finance are examined. Finally, the paper
+reflects on the future of HE in cloud
+computing and its potential for large-scale
+adoption.
+
